@@ -4,3 +4,5 @@
 * 1:00: Write cover letter for iVET360
 * 2:00: Write cover letter for Advertising Solutions
 * 3:00: Write cover letter for Opine
+* 4:00: Update resume
+* 
