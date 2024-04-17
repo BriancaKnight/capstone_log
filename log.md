@@ -9,4 +9,5 @@
 
 #### Wednesday, April 17
 
-* 7:45: Whiteboarding practice
+* 8:00: Whiteboarding practice
+* 8:45: Restart quiz component for MOOD
