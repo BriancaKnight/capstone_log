@@ -11,3 +11,7 @@
 
 * 8:00: Whiteboarding practice
 * 8:45: Restart quiz component for MOOD
+
+#### Monday, April 22
+
+* 7:45: Work on fixing git 
