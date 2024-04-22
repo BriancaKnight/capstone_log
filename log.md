@@ -16,3 +16,4 @@
 
 * 7:45: Work on fixing git 
 * 9:15: Prep/Interview with PupPod
+* 10:45: Write follow up email to pupPod
