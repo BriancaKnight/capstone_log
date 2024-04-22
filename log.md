@@ -18,3 +18,4 @@
 * 9:15: Prep/Interview with PupPod
 * 10:45: Interviewee scrum 
 * 11:15: Write follow up email to pupPod
+* 1:00: Compile material for AdSol
